@@ -34,10 +34,10 @@ We believe technology and art work best when balanced with awareness, simplicity
 - Experimental Sound Design
 
 ## 🎨 Art
-- Digital Illustration
-- Concept Sketching
-- Creative Design
-- Mixed Media Exploration
+ 
+- Ukiyo-E Art Consulting
+- 3D/2D Architecture
+ 
 
 ## 👐 Wellness & Practice
 - Shiatsu Massage
@@ -52,7 +52,7 @@ We believe technology and art work best when balanced with awareness, simplicity
 ### 🔹 Personal Repair & Restoration Projects
 Improving and restoring older systems  
 ### 🔹 Experimental Shiatsu Therapy 
-Creating and dusting The Office+Drinking Tea
+Finding Patients + Drinking Tea
 ### 🔹 ZenFlow Album
  FLstudio
  
