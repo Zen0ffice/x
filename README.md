@@ -5,57 +5,24 @@ We enjoy combining technology, creativity, and mindfulness into everything We bu
 
 ---
 
-## 🧠 About ZenOffice
+## 🧠 About ZenFlow Album
 
-- 🔧 Computer repair & hardware troubleshooting
-- 🎵 Music arrangement & sound design
-- 🎨 Traditional & digital art exploration
-- 👐 Shiatsu massage & holistic wellness
-- ☸️ Zen Buddhism & mindful living
-- 💡 Interested in interdisciplinary creativity and practical problem solving
-
+ 
 We believe technology and art work best when balanced with awareness, simplicity, and purpose.
 
 ---
-
-# 🛠 Tech & Creative Stack
-
-## 💻 Technical
-- PC Diagnostics & Repair
-- Hardware Upgrades
-- Operating System Installation
-- System Optimization
-- Troubleshooting & Maintenance
-
-## 🎵 Music
-- Music Arrangement
-- Ambient Composition
-- Audio Layering
-- Experimental Sound Design
+ What 2 Expect
 
 ## 🎨 Art
  
-- Ukiyo-E Art Consulting
-- 3D/2D Architecture
+- Ukiyo-E Art Style Audio Player That will Come With The Album
  
-
-## 👐 Wellness & Practice
-- Shiatsu Massage
-- Energy Balance Techniques
-- Mindfulness Practice
-- Zen Meditation
-
----
-
-# 🚀 Current Projects
-
-### 🔹 Personal Repair & Restoration Projects
-Improving and restoring older systems  
-### 🔹 Experimental Shiatsu Therapy 
-Finding Patients + Drinking Tea
+ 
+  Experimental Shiatsu Therapy With Sound
+ 
 ### 🔹 ZenFlow Album
  FLstudio
- 
+ 1h Listening 
 ---
 
 
